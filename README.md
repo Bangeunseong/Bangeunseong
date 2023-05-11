@@ -1,12 +1,16 @@
-### Problem Solving Skill
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=Bangeunseong)](https://solved.ac/Bangeunseong)
+<div align="center">
+  ### Problem Solving Skill
 
-### Most Used Language
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bangeunseong&layout=compact)](https://github.com/Bangeunseong/github-readme-stats)
+  [![Solved.ac
+  프로필](http://mazassumnida.wtf/api/generate_badge?boj=Bangeunseong)](https://solved.ac/Bangeunseong)
+
+  ### Most Used Language
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bangeunseong&layout=compact)](https://github.com/Bangeunseong/github-readme-stats)
+</div>
 <!--
 **Bangeunseong/Bangeunseong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div
 
 Here are some ideas to get you started:
 
