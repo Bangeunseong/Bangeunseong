@@ -1,6 +1,9 @@
+### Problem Solving Skill
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=Bangeunseong)](https://solved.ac/Bangeunseong)
 
+### Most Used Language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bangeunseong&layout=compact)](https://github.com/Bangeunseong/github-readme-stats)
 <!--
 **Bangeunseong/Bangeunseong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
